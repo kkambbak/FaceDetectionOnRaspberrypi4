@@ -11,25 +11,11 @@
 
 20150354 허기욱, 20170395 정윤성, 20210388 임세윤
 
+-------------
+구현 영상
 
-
-------------
-
-
-01  기대 효과
-
-
-02  작업 환경
-
-
-03  목표 및 제작 배경  
-
-
-04  시스템 개요
-
-
-05  구현 영상
-
+https://youtu.be/lIt_zLLhP5E
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lIt_zLLhP5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 --------------
 
@@ -99,13 +85,6 @@ OpenCV 4.1
 
 
 ----------------
-
-
-구현 영상
-
-
-https://youtu.be/lIt_zLLhP5E
-
 
 
 
