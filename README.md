@@ -1,5 +1,5 @@
 # FaceDetectionOnRaspberrypi4
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=lIt_zLLhP5E" frameborder="0" allowfullscreen></iframe>
+
 
 저전력·저비용 마스크 착용 감지 자동문
 
